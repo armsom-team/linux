@@ -142,6 +142,7 @@ dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-nvr-demo1-v21.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-nvr-demo3-v10.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-nvr-demo3-v10-android.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-bananapi-w3.dtb
+dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-armsom-w3.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-rock-5b.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-rock-5b-v11.dtb
 dtb-$(CONFIG_ARCH_ROCKCHIP) += rk3588-toybrick-x0-android.dtb
